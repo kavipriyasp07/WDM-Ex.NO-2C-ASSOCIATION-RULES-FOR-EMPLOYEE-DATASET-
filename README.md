@@ -47,10 +47,7 @@ middle, high, B
 ## Output:
 <img width="1212" height="982" alt="image" src="https://github.com/user-attachments/assets/0199e1e6-685b-4aa2-93d4-fc32992e50ce" />
 
-## Result: 
-Thus, this program has been successfully executed.
- 
- 
+
 
 
 
